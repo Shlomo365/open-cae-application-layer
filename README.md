@@ -226,6 +226,22 @@ This repository currently focuses on:
 
 Implementation is intentionally not the first step. The first step is to define the architecture clearly enough that it can be reviewed, criticized, reduced, and then implemented in a focused way.
 
+## Prototype Background
+
+This public repository is currently focused on architecture, RFCs, and early technical review.
+
+The initiative is informed by prior private prototype work exploring a Qt-based desktop CAE shell, model tree workflows, viewport interaction, simple geometry display, command routing, and diagnostic logging.
+
+That prototype is not currently part of this public repository and should not be treated as a supported implementation. It is shown only as background context for the architecture direction.
+
+<p align="center">
+  <img src="docs/assets/private-prototype-ui.png" alt="Private prototype UI exploration" width="900">
+</p>
+
+<p align="center">
+  <em>Private prototype UI exploration — shown as background context, not as a supported public implementation.</em>
+</p>
+
 ## How to give feedback
 
 At this stage, the most valuable contribution is technical criticism.

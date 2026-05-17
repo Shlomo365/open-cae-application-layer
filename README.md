@@ -272,6 +272,4 @@ These documents should stay short, focused, and reviewable. Deep technical detai
 - 
 ## License
 
-License: not selected yet.
-
-The license should be chosen before implementation begins. The choice should consider long-term goals around open-source collaboration, solver integration, library compatibility, commercial use, and contribution policy.
+This project is licensed under the Apache License 2.0.

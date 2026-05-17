@@ -260,6 +260,12 @@ The initial documentation set is expected to include:
 
 These documents should stay short, focused, and reviewable. Deep technical detail should be added gradually as decisions are made.
 
+## Discussions
+
+The first main architecture review discussion is open here:
+
+- [RFC-001: Open CAE Application Layer](../../discussions)
+
 ## Documents
 
 - [Vision](VISION.md)

@@ -244,20 +244,6 @@ Useful feedback includes:
 
 The goal is not to ask people for commitment before the project is ready. The goal is to invite serious technical review before implementation decisions become expensive.
 
-## Planned documents
-
-The initial documentation set is expected to include:
-
-- `VISION.md`
-- `ROADMAP.md`
-- `docs/RFC-001-Open-CAE-Application-Layer.md`
-- `docs/ARCHITECTURE_OVERVIEW.md`
-- `docs/MVP_DEFINITION.md`
-- `docs/OPEN_SOURCE_CAE_GAP_MAP.md`
-- `docs/FOUNDING_PROBLEMS.md`
-- `docs/BENCHMARK_CHALLENGE.md`
-- `docs/AI_AGENT_OPERATION_MODEL.md`
-
 These documents should stay short, focused, and reviewable. Deep technical detail should be added gradually as decisions are made.
 
 ## Discussions

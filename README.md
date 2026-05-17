@@ -260,6 +260,16 @@ The initial documentation set is expected to include:
 
 These documents should stay short, focused, and reviewable. Deep technical detail should be added gradually as decisions are made.
 
+## Documents
+
+- [Vision](VISION.md)
+- [Roadmap](ROADMAP.md)
+- [RFC-001: Open CAE Application Layer](docs/rfcs/RFC-001-open-cae-application-layer.md)
+- [Architecture Overview](docs/ARCHITECTURE_OVERVIEW.md)
+- [MVP Definition](docs/MVP_DEFINITION.md)
+- [Open-Source CAE Gap Map](docs/OPEN_SOURCE_CAE_GAP_MAP.md)
+- [Founding Problems](docs/FOUNDING_PROBLEMS.md)
+- 
 ## License
 
 License: not selected yet.

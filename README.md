@@ -275,7 +275,7 @@ The first main architecture review discussion is open here:
 - [MVP Definition](docs/MVP_DEFINITION.md)
 - [Open-Source CAE Gap Map](docs/OPEN_SOURCE_CAE_GAP_MAP.md)
 - [Founding Problems](docs/FOUNDING_PROBLEMS.md)
-- 
+  
 ## License
 
 This project is licensed under the Apache License 2.0.
